@@ -10,12 +10,12 @@ const people = [
     },
     {
         name: "Anton",
-        age: 11,
+        age: 15,
         city: "Kil"
     },
     {
         name: "Linnea",
-        age: 17,
+        age: 68,
         city: "Arvika"
     }
 ];
